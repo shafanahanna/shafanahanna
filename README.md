@@ -35,6 +35,6 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shafanahanna&show_icons=true&locale=en&layout=compact" alt="shafanahanna" /></p>
 <br><br><br><br><br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?usernameshafanahanna=&show_icons=true&locale=en" alt="shafanahanna" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=shafanahanna=&show_icons=true&locale=en" alt="shafanahanna" /></p>
 <br><br><br><br><br><br><br>
 <p>&nbsp;<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=shafanahanna&" alt="shafanahanna" /></p>
